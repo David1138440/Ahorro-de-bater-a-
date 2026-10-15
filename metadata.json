@@ -1,0 +1,6 @@
+{
+  "name": "Ahorro de Batería",
+  "description": "Optimizador inteligente de batería, perfiles de ahorro de energía, monitor de salud y extensor de autonomía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
